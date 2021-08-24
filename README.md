@@ -1,6 +1,8 @@
 # Responsive Clock Ui 
 ### Responsive Clock Ui
 
+## For Live View: https://starswarrior.github.io/res-ui-clock/ 
+
 - Beautiful responsive clock UI design using HTML, CSS, and JAVASCRIPT.
 - Contains an elegant Neumorphism watch.
 - Also a clock in the form of text.
